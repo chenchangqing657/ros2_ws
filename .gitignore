@@ -1,0 +1,7 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+# 以后如果放了别人的包，在这里加一行排除，例如：
+# src/car_pkg/
